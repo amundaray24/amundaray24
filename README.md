@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 About Me:
 Hi, how are you?<br>😎 i'm a Software Engineer with a passion for backend technology<br>🔭 I’m currently working on Neoris España<br>📮 Contact me by [email](mailto:amundaray24@gmail.com) or through [Linkedin](https://www.linkedin.com/in/amundaray24/)
 
 
